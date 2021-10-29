@@ -1,0 +1,164 @@
+[
+    {
+        "name": "TheGuardian",
+        "address": "https://www.theguardian.com/world/coronavirus-outbreak",
+        "base": "https://www.theguardian.com",
+        "language": "en"
+    },
+    {
+        "name": "NYTimes",
+        "address": "https://www.nytimes.com/news-event/coronavirus",
+        "base": "https://www.nytimes.com",
+        "language": "en"
+    },
+    {
+        "name": "LATimes",
+        "address": "https://www.latimes.com/topic/covid-19-pandemic",
+        "base": "https://www.latimes.com",
+        "language": "en"
+    },
+    {
+        "name": "UnitedNations",
+        "address": "https://www.un.org/coronavirus",
+        "base": "https://www.un.org",
+        "language": "en"
+    },
+    {
+        "name": "BBC",
+        "address": "https://www.bbc.co.uk/news/coronavirus",
+        "base": "https://www.bbc.co.uk",
+        "language": "en"
+    },
+    {
+        "name": "EveningStandard",
+        "address": "https://www.standard.co.uk/topic/coronavirus",
+        "base": "https://www.standard.co.uk",
+        "language": "en"
+    },
+    {
+        "name": "TheSun",
+        "address": "https://www.thesun.co.uk/topic/coronavirus",
+        "base": "https://www.thesun.co.uk",
+        "language": "en"
+    },
+    {
+        "name": "DailyMail",
+        "address": "https://www.dailymail.co.uk/news/coronavirus/index.html",
+        "base": "https://www.dailymail.co.uk",
+        "language": "en"
+    },
+    {
+        "name": "NYPost",
+        "address": "https://nypost.com/coronavirus",
+        "base": "https://nypost.com",
+        "language": "en"
+    },
+    {
+        "name": "Spiegel",
+        "address": "https://www.spiegel.de/thema/coronavirus/",
+        "base": "https://www.spiegel.de",
+        "language": "de"
+    },
+    {
+        "name": "FAZ",
+        "address": "https://www.faz.net/aktuell/gesellschaft/gesundheit/coronavirus/",
+        "base": "https://www.faz.net",
+        "language": "de"
+    },
+    {
+        "name": "Focus",
+        "address": "https://www.focus.de/gesundheit/coronavirus/",
+        "base": "https://www.focus.de",
+        "language": "de"
+    },
+    {
+        "name": "ZDF",
+        "address": "https://www.zdf.de/nachrichten/thema/coronavirus-covid-19-100.html",
+        "base": "https://www.zdf.de",
+        "language": "de"
+    },
+    {
+        "name": "Stern",
+        "address": "https://www.stern.de/gesundheit/corona",
+        "base": "https://www.stern.de",
+        "language": "de"
+    },
+    {
+        "name": "SueddeutscheZeitung",
+        "address": "https://www.sueddeutsche.de/thema/Coronavirus",
+        "base": "https://www.sueddeutsche.de",
+        "language": "de"
+    },
+    {
+        "name": "Tagesschau",
+        "address": "https://www.tagesschau.de/inland/",
+        "base": "https://www.tagesschau.de",
+        "language": "de"
+    },
+    {
+        "name": "taz",
+        "address": "https://taz.de/!p4637/",
+        "base": "https://www.taz.de",
+        "language": "de"
+    },
+    {
+        "name": "ElPais",
+        "address": "https://elpais.com/noticias/covid-19/",
+        "base": "https://www.elpais.com",
+        "language": "es"
+    },
+    {
+        "name": "ElMundo",
+        "address": "https://www.elmundo.es/ciencia-y-salud/salud.html",
+        "base": "https://www.elmundo.es",
+        "language": "es"
+    },
+    {
+        "name": "ABC",
+        "address": "https://www.abc.es/",
+        "base": "https://www.abc.es",
+        "language": "es"
+    },
+    {
+        "name": "ElCorreo",
+        "address": "https://www.elcorreo.com/",
+        "base": "https://www.elcorreo.com",
+        "language": "es"
+    },
+    {
+        "name": "LasProvincias",
+        "address": "https://www.lasprovincias.es/",
+        "base": "https://www.lasprovincias.es",
+        "language": "es"
+    },
+    {
+        "name": "20minutos",
+        "address": "https://www.20minutos.es/",
+        "base": "https://www.20minutos.es",
+        "language": "es"
+    },
+    {
+        "name": "laRepubblica",
+        "address": "https://www.repubblica.it/salute/argomenti/coronavirus",
+        "base": "https://www.repubblica.it",
+        "language": "it"
+    },
+    {
+        "name": "CorriereDellaSera",
+        "address": "https://www.corriere.it/",
+        "base": "https://www.corriere.it",
+        "language": "it"
+    },
+    {
+        "name": "LaStampa",
+        "address": "https://www.lastampa.it/salute/argomenti/coronavirus",
+        "base": "https://www.lastampa.it",
+        "language": "it"
+    },
+    {
+        "name": "metro",
+        "address": "https://metronews.it/",
+        "base": "https://metronews.it",
+        "language": "it"
+    }
+]
