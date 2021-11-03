@@ -80,7 +80,7 @@ app.get('/news/:source', (req, res) => {
     const source = req.params.source
     const language = req.query.lang;
 
-    let filteredArticles = articles.filter(article => article.source.toLowerCase() == source.toLocaleLowerCase())
+    let filteredArticles = articles.filter(article => article.source.toLowerCase() == source.toLowerCase())
     if (language) {
         filteredArticles = filteredArticles.filter(article => article.language.toLowerCase() == language.toLowerCase())
     } 
